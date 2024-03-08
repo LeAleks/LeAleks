@@ -1,8 +1,5 @@
 ### Hi there! 👋 My name is Aleks and I'm a C++ developer.
 
-I am a student at Yandex Practicum on a C++ developer course.
-I graduated as mining engineer and have an experience in semiconductor power converters (automotive too).
-
 📫 How to reach me:
 - https://www.linkedin.com/in/aleksandr-leskov/
 - https://t.me/Aleks_Leskov
